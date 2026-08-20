@@ -1,6 +1,6 @@
 Objective: Fulfill the user stories below and get all the tests to pass to complete the lab.
 
-User Stories:
+User Stories: (optional case: try with user input)
 
 1. You should have a function named create_character.
 2. When create_character is called with a first argument that is not a string it should return The character name should be a string.
